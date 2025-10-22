@@ -1,4 +1,6 @@
 #!/bin/bash
+#Autor: Lucas Enzo
+#Data: 21/10/2025
 #script: some de dois numeros
 
 numero1=6 
